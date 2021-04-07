@@ -96,4 +96,8 @@ def constrain(value, lower, upper):
     return value
     
 
+def next_power_of_2(x):
+    return 2**(math.ceil(math.log(x, 2)))
+
+
 

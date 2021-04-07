@@ -1,5 +1,5 @@
 
-import utils
+from . import utils
 
 import scipy.stats
 import pandas
