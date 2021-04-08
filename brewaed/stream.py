@@ -19,16 +19,12 @@ import logging
 logging.getLogger("tensorflow").setLevel(logging.ERROR)
 logging.getLogger("tensorflow").addHandler(logging.NullHandler(logging.ERROR))
 
-def int_or_str(text):
-    """Helper function for argument parsing."""
-    try:
-        return int(text)
-    except ValueError:
-        return text
 
+
+# TODO: make into a class, handling everything regarding the input
 def detect_forever(audio_queue, window_length,
             overlap=0.1,
-            on_threshold=0.6, off_threshold=0.4
+            on_threshold=0.6, off_threshold=0.4,
             ):
 
     n_samples = window_length
@@ -73,6 +69,12 @@ def detect_forever(audio_queue, window_length,
                 print('EVENT off', t, probability)
 
 
+def int_or_str(text):
+    """Helper function for argument parsing."""
+    try:
+        return int(text)
+    except ValueError:
+        return text
 
 def parse():
     parser = argparse.ArgumentParser(
