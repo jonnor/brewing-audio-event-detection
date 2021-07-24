@@ -27,9 +27,5 @@ Their sensors can transmit compressed and privacy-preserving spectrograms,
 allowing Machine Learning to be done in the cloud using familiar tools like Python.
 Or models can be deployed onto the sensor itself, for a highly efficient on-edge ML solution.
 
-## TODO
 
-- Add an overall picture. Fermentation tank, sensor/microphone
-- Link to the code entrypoints
-- Add info about how to setup/run
 
