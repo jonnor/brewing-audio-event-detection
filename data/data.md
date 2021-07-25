@@ -1,55 +1,26 @@
 
-## Youtube videos
-
-Active Airlock
-https://www.youtube.com/watch?v=570zQJRhllI
-high rate. burping
-ok sound
-30 seconds
+# Youtube videos
 
 
-Watch an Airlock Bubbling During Mead Fermentation - Entertainment for Brewers
-https://www.youtube.com/watch?v=p0jtxp5nWms
-5 minutes
-Quite regular events
-Not so loud events
-Quite high ambient noise
+## Good
 
-
-ASMR | Homebrewing Airlock Symphony
-https://www.youtube.com/watch?v=MN0Mg1uyznU
-16 minutes
-3-5 different airlocks. Sound different
-One has highest event rate
-Low ambient noise
-
+One hour of apple wine airlock bubbling
 https://www.youtube.com/watch?v=by0e-EkAsOE
+
 60 minutes
+1 per 1.5 seconds approx
+Quite clear
 
+Bubbling airlock on pear cider
 https://www.youtube.com/watch?v=q2srYoC3FOo
-2 hours 20
+2 hours 20 mins
 
+Some ambient noise sometimes, like cars
 Every 20 minutes there is another event
+1 plop per 4 seconds approx
+a bit of burping sometimes
 
-ASMR bubbling airlock
-https://www.youtube.com/watch?v=b31j5PvXQhY
-7 minutes
 
-multiple bubbles in one go. burping. Plops not so clear
-
-Two minutes of air lock bubbling
-https://www.youtube.com/watch?v=3iGoz00AMew
-
-Airlock with glyserine
-2 minutes
-Not so loud
-Compressor noise
-
-Bubbling Airlock
-https://www.youtube.com/watch?v=WznxXBRUVb0
-
-Very high rate
-30 seconds
 
 Airlock bubbling ASMR
 https://www.youtube.com/watch?v=vrM-lZ5H54Y
@@ -58,41 +29,166 @@ https://www.youtube.com/watch?v=vrM-lZ5H54Y
 High rate
 Bit of burping. But quite consistent sound
 
+Primary Fermentation Air Lock
+https://www.youtube.com/watch?v=ZPmEByu-4xQ
+very high rate. 4 per second
+very clear
+1 minute
+
+Ginger beer brewing day nine
+https://www.youtube.com/watch?v=f3bLQLT48Yc
+
+57 secodns
+2 per second. Quite clear
+Ambient noise behind, people moving, talking
+
+
+Airlock during fermentation
+https://www.youtube.com/watch?v=WHlSNkq29k4
+medium activity
+clear
+1 minute
+
+Elderflower Airlock
+https://www.youtube.com/watch?v=51ytpDZj8v4
+very clear
+medium rate
+1 minute
+
+Airlock bubbler/Home brewing
+https://www.youtube.com/watch?v=gQFo3Lg2MAc
+2 minutes
+Clear, even
+Medium rate
+some kitchen noise in background
+
+S-Style Beer/Wine Air Lock Bubbling
+https://www.youtube.com/watch?v=po2u_qI7-us
+low rate
+quite clear
+person breathing
+bit of music
+
+
+## Challenging
+
+Demijohn Airlock Bubbles 12 mins
+https://www.youtube.com/watch?v=0_wDLNikm2M
+
+12 minutes
+1 per second
+ok clear
+low SNR, high whitenoise
+challenging
+
+ASMR bubbling airlock
+https://www.youtube.com/watch?v=b31j5PvXQhY
+7 minutes
+multiple bubbles in one go. burping.
+Plops not so clear
+Challenging?
+
+## Maybe
+
+Two minutes of air lock bubbling
+https://www.youtube.com/watch?v=3iGoz00AMew
+
+Airlock with glyserine
+2 minutes
+Not so loud
+Compressor noise
+! not common to use glyserine
+
+## Multiple brews
+
+The sound of Mead bubbling away
+https://www.youtube.com/watch?v=m_Y8-TmyyGg
+! Two bubblers
+Low rate. very similar. 1 per 4 sec
+55 seconds
+
+ASMR | Homebrewing Airlock Symphony
+https://www.youtube.com/watch?v=MN0Mg1uyznU
+16 minutes
+! 3-5 different airlocks at same time. Sound different
+One has highest event rate
+Low ambient noise
+
+Home brew airlock
+https://www.youtube.com/watch?v=pApS0S2PA9I
+2 bubblers
+noises in background
+26 seconds
+camera handling noises
+
+Mead (Honey Wine) Fermenter Bubbling
+https://www.youtube.com/watch?v=pMxXWyKu0HM
+2-3 bublers
+bit low volume
+
+Beautiful sound of home brew wine
+https://www.youtube.com/watch?v=ewOPI-gpoto
+2 bubblers
+Right next to eachother
+lots of camera motion back and forth
+
+## Not so good
+
+Brewing alcoholic ginger beer. One week on, live
+https://www.youtube.com/watch?v=eKTNsWHXkVU
+4 hours
+1 plop per second almost
+irregular plops
+goes for some seconds, then waits for many seconds
+
+
+## No longer available
+
 Homebrew Ale Airlock Bubbling. So Satisfying!
 https://www.youtube.com/watch?v=j7md-wkL1U0
 1 minute
 1 per second
 Quite clear, glassy sound.
 Variation due to camera position
+! video unavailable
 
-Bubbling airlock on a hefeweizen
-https://www.youtube.com/watch?v=aVUnxUfeBMA
-10 seconds
+Active beer fermentation
+https://www.youtube.com/watch?v=tw16K7mNAmE
+1 minute
+high rate
+airlock not visible
+! unavailable
 
-Airlock Bubbling
-https://www.youtube.com/watch?v=8iuJLfs4uP8
-low volume
-10 seconds
+Homebrew is bubbling away
+https://www.youtube.com/watch?v=IzFpqaElTrg
+burping a bit
+clear sound
+1 minute
+!unavailable
 
-Bubbling airlock
-https://www.youtube.com/watch?v=F8Oq1gyTIRY
-bit burpy
-lots of camera movement
+## Too much editing
 
-Airlock Bubbling - Short Mead
-https://www.youtube.com/watch?v=-FJ8UWZmwZQ
-noise higher than bubble sound
-30 seconds
+Yeast FM - 1min of Airlock Bubbles from Mead Making
+https://www.youtube.com/watch?v=ZFlMHcYdto4
+artifical sound
+using gating to remove non-bubble periods
 
-Airlock Bubbling for 9 minutes
-https://www.youtube.com/watch?v=7gdJ134JKa4
-9 minutes
-very burpy
-
-Airlock Bubbling for 5 minutes
-https://www.youtube.com/watch?v=rBvycO-O_8s
+Watch an Airlock Bubbling During Mead Fermentation - Entertainment for Brewers
+https://www.youtube.com/watch?v=p0jtxp5nWms
 5 minutes
-very burpy
+Quite regular events
+Not so loud events
+Quite high ambient noise
+
+! Edited, artificially speeds up after a while
+
+## Short, needs review
+
+Active Airlock
+https://www.youtube.com/watch?v=570zQJRhllI
+high rate. burping
+ok sound
+!only 30 seconds
 
 St Peters Air Lock Bubbling
 https://www.youtube.com/watch?v=eu6nphXTbTM
@@ -163,14 +259,35 @@ https://www.youtube.com/watch?v=_vi1q6QfkG4
 low volume
 8 seconds
 
-Yeast FM - 1min of Airlock Bubbles from Mead Making
-https://www.youtube.com/watch?v=ZFlMHcYdto4
-artifical sound
-using gating to remove non-bubble periods
+Bubbling Airlock
+https://www.youtube.com/watch?v=WznxXBRUVb0
+
+Very high rate
+30 seconds
+! too short
+
+Bubbling airlock on a hefeweizen
+https://www.youtube.com/watch?v=aVUnxUfeBMA
+10 seconds
+
+Airlock Bubbling
+https://www.youtube.com/watch?v=8iuJLfs4uP8
+low volume
+10 seconds
+
+Bubbling airlock
+https://www.youtube.com/watch?v=F8Oq1gyTIRY
+bit burpy
+lots of camera movement
+
+Airlock Bubbling - Short Mead
+https://www.youtube.com/watch?v=-FJ8UWZmwZQ
+noise higher than bubble sound
+30 seconds
 
 beer bubbling (home brew)
 https://www.youtube.com/watch?v=6VQTGuOY4Uk
-
+33 seconds
 quite clear
 1 per 2 sec
 some operator noise
@@ -183,25 +300,6 @@ Airlock Bubbles
 https://www.youtube.com/watch?v=-E3T2OmjTLs
 15 seconds
 quite clear
-
-Primary Fermentation Air Lock
-https://www.youtube.com/watch?v=ZPmEByu-4xQ
-very high rate. 4 per second
-very clear
-1 minute
-
-Alcoholic Ginger Beer fermentation fourth night - getting bubbles
-https://www.youtube.com/watch?v=k9OXne3iGpM
-
-1 hour 30
-Almost no plops
-
-Ginger beer fermentation day 6. Finally getting some action
-https://www.youtube.com/watch?v=Z7aNQXE0nUo
-
-5 hours
-Quite quiet plops
-1 plop per 30 seconds
 
 30 seconds of a bubbling airlock
 https://www.youtube.com/watch?v=1KIecmSnD5g
@@ -218,16 +316,10 @@ ok clear
 
 Fermentation Airlock Bubbling (beer or wine homebrewing)
 https://www.youtube.com/watch?v=DV_9tfFyY00
-clear. 
+22 seconds
+clear sound. 
 rate 1 per 2 sec
 misc background noise
-
-
-The sound of Mead bubbling away
-https://www.youtube.com/watch?v=m_Y8-TmyyGg
-Two bubblers
-Low rate. very similar. 1 per 4 sec
-1 minute
 
 Airlock bubbling/Airlock en funcionamiento
 https://www.youtube.com/watch?v=mRpjUjNK0z0
@@ -241,31 +333,6 @@ two at same time
 clear glass sounds
 medium rate. 1 per 2 seconds each
 30 seconds
-
-Airlock during fermentation
-https://www.youtube.com/watch?v=WHlSNkq29k4
-medium activity
-clear
-1 minute
-
-Brewing alcoholic ginger beer. One week on, live
-https://www.youtube.com/watch?v=eKTNsWHXkVU
-
-4 hours
-1 plop per second almost
- 
-https://www.youtube.com/watch?v=f3bLQLT48Yc
-
-57 secodns
-2 per second. Quite clear
-
-Demijohn Airlock Bubbles 12 mins
-https://www.youtube.com/watch?v=0_wDLNikm2M
-
-12 minutes
-1 per second
-ok clear
-high whitenoise
 
 S-Style Beer/Wine Air Lock Bubbling
 https://www.youtube.com/watch?v=po2u_qI7-us
@@ -313,43 +380,12 @@ very high event rate
 still quite clear
 lots of tricky ambient noise
 
-Elderflower Airlock
-https://www.youtube.com/watch?v=51ytpDZj8v4
-very clear
-medium rate
-1 minute
-
-Beautiful sound of home brew wine
-https://www.youtube.com/watch?v=ewOPI-gpoto
-2 bubblers
-Right next to eachother
-lots of camera motion back and forth
-
-S-Style Beer/Wine Air Lock Bubbling
-https://www.youtube.com/watch?v=po2u_qI7-us
-low rate
-quite clear
-
 Primary fermenter airlock bubbling
 https://www.youtube.com/watch?v=G5mAKVP-KX8
 30 seconds
 some odd noises
 ok bubble sound
 medium acitvity
-
-Homebrew is bubbling away
-https://www.youtube.com/watch?v=IzFpqaElTrg
-burping a bit
-clear sound
-1 minute
-
-Airlock bubbler/Home brewing
-https://www.youtube.com/watch?v=gQFo3Lg2MAc
-2 minutes
-Clear, even
-Medium rate
-some kitchen noise in background
-
 
 Bubbling In the Airlock
 https://www.youtube.com/watch?v=Y-2R3cRRzTI
@@ -363,55 +399,6 @@ https://www.youtube.com/watch?v=pUkmG2sPBD4
 ok clear
 some handling noise
 
-The effect of a light fermentation on an airlock
-https://www.youtube.com/watch?v=fufqSDnqFto
-gurgling
-some handling noise
-quite uneven
-
-Mead (Honey Wine) Fermenter Bubbling
-https://www.youtube.com/watch?v=pMxXWyKu0HM
-2-3 bublers
-bit low volume
-
-Home brew airlock
-https://www.youtube.com/watch?v=pApS0S2PA9I
-2 bubblers
-noises in background
-
-
-Active beer fermentation
-https://www.youtube.com/watch?v=tw16K7mNAmE
-1 minute
-high rate
-airlock not visible
-
-Fermenting - Airlock activity
-https://www.youtube.com/watch?v=NRXuJqZp61w
-very high rate
-hard to hear
-
-beer bubbling
-https://www.youtube.com/watch?v=dE9FjwMeWLs
-high rate
-burping
-
-Cherry Fever Stout fermenting
-https://www.youtube.com/watch?v=PvBE0mZmBHY
-high rate
-quite clear
-
-Airlock Rhythm
-https://www.youtube.com/watch?v=0DXxOutOilU
-3 piece
-very clear
-steady rythm
-1 per second
-noise in background
-
-Fermentation Airlock
-https://www.youtube.com/watch?v=VQTucCuRfrk
-burping
 
 Bubbles
 https://www.youtube.com/watch?v=Lqw3VX3FcwI
@@ -423,6 +410,86 @@ https://www.youtube.com/watch?v=bp6CT68rqoY
 high rate
 quite clear
 20 sec
+
+Airlock Rhythm
+https://www.youtube.com/watch?v=0DXxOutOilU
+3 piece
+very clear
+steady rythm
+1 per second
+noise in background, incl birds
+32 seconds
+
+Fermenting - Airlock activity
+https://www.youtube.com/watch?v=NRXuJqZp61w
+very high rate
+hard to hear
+20 seconds
+
+beer bubbling
+https://www.youtube.com/watch?v=dE9FjwMeWLs
+high rate
+burping
+34 seconds
+
+Cherry Fever Stout fermenting
+https://www.youtube.com/watch?v=PvBE0mZmBHY
+high rate
+quite clear
+30 seconds
+
+## Too burpy
+Individual events not clear
+
+Airlock Bubbling for 9 minutes
+https://www.youtube.com/watch?v=7gdJ134JKa4
+9 minutes
+very burpy
+
+Airlock Bubbling for 5 minutes
+https://www.youtube.com/watch?v=rBvycO-O_8s
+5 minutes
+very burpy
+
+Fermentation Airlock
+https://www.youtube.com/watch?v=VQTucCuRfrk
+burping
+30 seconds
+
+The effect of a light fermentation on an airlock
+https://www.youtube.com/watch?v=fufqSDnqFto
+gurgling / burping
+some handling noise
+quite uneven
+1 minute 24 sec
+
+
+## Too low signal
+
+Alcoholic Ginger Beer fermentation fourth night - getting bubbles
+https://www.youtube.com/watch?v=k9OXne3iGpM
+
+1 hour 30 mins
+Very low rate
+Almost no plops
+! plops not hearable?
+
+Ginger beer fermentation day 6. Finally getting some action
+https://www.youtube.com/watch?v=Z7aNQXE0nUo
+
+5 hours
+Quite quiet plops
+1 plop per 30 seconds
+quite a bit of handling noise in the start
+TV running first 10 minutes
+clock ticking louder than the plops 
+
+## Too be reviewed
+
+
+
+
+
 
 
 ## Labeling

@@ -9,7 +9,7 @@ RNN/CNN on (mel)spectrogram
 
 - Make a demo video
 Playing back some plops
-Detecting each
+Detecting each plop
 Estimating the BPM
 
 Documentation
