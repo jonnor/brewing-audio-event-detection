@@ -104,4 +104,11 @@ TypeForm seems to allow audio upload. 10 MB limit
 
 Need some CAPTA / trolling checking 
 
+## Channels
+
+Brewing communities
+- Reddit
+- Youtube. People who have uploaded videos already
+
+
 
