@@ -53,7 +53,7 @@ def merge_consecutive(df, col='class'):
     # Group where consequtive values are the same
     groups = df.groupby((df[col].shift() != df[col]).cumsum())
     
-    dist = df.reset_index().diff()['index'].iloc[-1]
+    dist = df.reset_index()['index'].diff().iloc[-1]
     
     outs = []
     for idx, g in groups:

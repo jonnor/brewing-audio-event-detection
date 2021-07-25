@@ -21,10 +21,58 @@ Also much closer to the desired output from overall system
 
 How to do "counting" in differentiable way?
 Is just sum( 1.0 * (frames < threshold) )
+the thresholding to binarize is not differentiable though
+Differentiable Binarization
+Could maybe use sigmoid as an approximation
+
 Will be a bit noisy for events which straddle multiple frames
 But if focusing only on onset, might not be much of an issue
 
-Has this been reported in research yet?
+Learning to Count
+
+## Learning to count with deep object features
+https://arxiv.org/abs/1505.08082
+2015
+76 citations as of 2021
+
+Learning to count is a learning strategy that has been recently proposed in the literature for dealing with problems where estimating the number of object instances in a scene is the final objective.
+In this framework, the task of learning to detect and localize individual object instances is seen as a harder task that can be evaded by casting the problem as that of computing a regression value from hand-crafted image features.
+In this paper we explore the features that are learned when training a counting convolutional neural network in order to understand their underlying representation.
+To this end we define a counting problem for MNIST data and show that the internal representation of the network is able to classify digits in spite of the fact that no direct supervision was provided for them during training.
+We also present preliminary results about a deep network that is able to count the number of pedestrians in a scene.
+
+## Count-ception: Counting by Fully Convolutional Redundant Counting
+https://openaccess.thecvf.com/content_ICCV_2017_workshops/w1/html/Cohen_Count-ception_Counting_by_ICCV_2017_paper.html
+
+## Deep Count: Fruit Counting Based on Deep Simulated Learning
+https://www.mdpi.com/1424-8220/17/4/905
+
+## Weakly-Supervised Temporal Localization via Occurrence Count Learning
+https://arxiv.org/abs/1905.07293
+
+Github code
+Implementation in Tensorflow
+https://github.com/SchroeterJulien/ICML-2019-Weakly-Supervised-Temporal-Localization-via-Occurrence-Count-Learning
+
+From input spectrogram, the model successively estimates:
+(a) Event processes pi, (b) Count distributions Yi, (c) Loss L(θ)
+
+Uses Event process estimation
+Using for the loss
+Kullback Leibler divergence
+with a Poisson-binomial distribution
+
+Evaluated on Drum hit and piano onset detection in audio
+
+References related work
+Xu et al. improved their own attention-based convolutional recurrent neural network (Xu et al., 2017)
+by applying a trainable gated linear unit instead of the classical ReLU (Xu et al., 2018),
+while Kong et al. (2017) performed joint detection and classification on overlapping blocks
+Kumar and Raj (2016) leveraged multiple instance learning to address the localization task.
+
+
+
+
 
 ## Clip has label proporsions
 
