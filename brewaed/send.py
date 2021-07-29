@@ -7,7 +7,7 @@ import structlog
 
 log = structlog.get_logger()
 
-import beerbubble
+from . import beerbubble
 
 def brewfather_send(url, device, bpm, **kwargs):
     """
