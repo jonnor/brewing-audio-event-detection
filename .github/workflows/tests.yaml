@@ -19,7 +19,7 @@ jobs:
 
       - name: Install OS dependencies
         run: |
-          sudo apt-get install -yqq libsndfile1 libsndfile1-dev
+          sudo apt-get install -yqq libsndfile1 libsndfile1-dev libportaudio2 portaudio19-dev
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
