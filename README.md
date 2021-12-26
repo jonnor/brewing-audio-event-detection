@@ -11,6 +11,8 @@ It is *not intended* to be a replacement for a proper fermentation tracking syst
 If you just want something that works for fermentation tracking,
 get a [Plaato Airlock](https://plaato.io/products/plaato-airlock).
 
+Or if you want to build something yourself, consider a [BrewBubbles](https://docs.brewbubbles.com/) bubble counter or a [iSpindle](https://www.ispindel.de) hydrometer.
+
 If you want to learn about [Machine Learning for Audio]((https://github.com/jonnor/machinehearing)), this is for you!
 This repository will serve as a simple example of a practical audio ML system,
 using Audio Event Detection.

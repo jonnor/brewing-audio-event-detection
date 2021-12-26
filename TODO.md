@@ -21,7 +21,6 @@ Detecting each plop
 Estimating the BPM
 
 
-
 # Later
 
 - Setup learning from weakly labeled data
