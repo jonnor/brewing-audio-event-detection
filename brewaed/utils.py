@@ -4,17 +4,29 @@ import math
 import pandas
 import numpy
 
-def mark_onoff(series, on_threshold, off_threshold, initial=0, on_state=1, off_state=0):
+def mark_onoff(series, on_threshold, off_threshold, initial=None, on_state=1, off_state=0):
     #print(series)
-    state = initial
+
+    if initial is None:
+        state = off_state
+    else:
+        state = initial
+
     times = []
     events = []
     
     values = []
     value_times = []
     
+    #value_times.append(0.0)
+    #values.append(0 if state == off_state else 1)
+
     for idx, data in zip(series.index, series):
-        if state == off_state and data > on_threshold:
+        if state is None:
+            state = on_state if data > on_threshold else off_state
+            times.append(idx)
+            events.append(state)
+        elif state == off_state and data > on_threshold:
             state = on_state
             times.append(idx)
             events.append(state)          
@@ -27,7 +39,17 @@ def mark_onoff(series, on_threshold, off_threshold, initial=0, on_state=1, off_s
         
         value_times.append(idx)
         values.append(0 if state == off_state else 1)
-        
+    
+    s = 1 if series.iloc[-1] > off_threshold else 0
+    t = series.index[-1]
+    print('last', s, t)
+    value_times.append()
+    values.append(s)
+    times.append(idxt)
+    events.append(s)
+
+    #values.append(0 if state == off_state else 1)
+
     sparse = pandas.Series(events, index=times)
     dense = pandas.Series(values, index=value_times)
     return sparse, dense
