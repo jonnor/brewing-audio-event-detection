@@ -110,7 +110,7 @@ def plot_history(history):
     from matplotlib import pyplot as plt
     
     fig, axs = plt.subplots(ncols=2, figsize=(10, 4))
-    history = pandas.DataFrame(hist.history)
+    history = pandas.DataFrame(history)
     history.index.name = 'epoch'
     history.plot(ax=axs[0], y=['loss', 'val_loss'])
     history.plot(ax=axs[1], y=['pr_auc', 'val_pr_auc'])
