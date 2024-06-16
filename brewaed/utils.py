@@ -43,9 +43,9 @@ def mark_onoff(series, on_threshold, off_threshold, initial=None, on_state=1, of
     s = 1 if series.iloc[-1] > off_threshold else 0
     t = series.index[-1]
     print('last', s, t)
-    value_times.append()
+    value_times.append(t)
     values.append(s)
-    times.append(idxt)
+    times.append(t)
     events.append(s)
 
     #values.append(0 if state == off_state else 1)
